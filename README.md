@@ -1,1 +1,1 @@
-# Practice of java with programs
+# Practice of java programs
